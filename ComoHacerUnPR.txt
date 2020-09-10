@@ -1,0 +1,11 @@
+Integra a este repositorio un archivo de texto que:
+
+Se llame como cualquiera de tus nombres o apellidos
+Contenga un saludo o un chiste (o cualquier cosa que consideres interesante)
+Para lograr esto debes:
+
+Hacer un Fork del repositorio
+Clonar el repositorio en tu computadora
+Crear una rama mediante el comando git checkout -b archivo/tu-nombre
+Publicar tu rama en tu repositorio forkeado
+Generar el pull request hacia mi repositorio en la rama master
